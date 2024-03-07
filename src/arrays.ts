@@ -1,2 +1,2 @@
-let numbers: number[] = [];
-numbers.forEach(n => n.);
+// let numbers: number[] = [];
+// numbers.forEach(n => n.);
